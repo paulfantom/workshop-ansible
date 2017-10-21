@@ -2,7 +2,7 @@
 
 case "$1" in
   start)
-    cd ../presentation/decks/
+    cd ../docs/
     python -m SimpleHTTPServer &
     ;;
   provision)
