@@ -5,4 +5,4 @@ Materials are adapted from [Ansible lightbulb project](https://github.com/ansibl
 
 Feel free to reuse.
 
-Presentation available as [Github Page](paulfantom.github.io/workshop-ansible)
+Presentation available as [Github Page](https://paulfantom.github.io/workshop-ansible)
